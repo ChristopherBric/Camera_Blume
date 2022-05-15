@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: video
+Description: Description of video
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/install/lib 
+Requires: cv_bridge image_transport roscpp rospy sensor_msgs std_msgs
